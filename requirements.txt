@@ -1,0 +1,5 @@
+clarifai==2.0.21
+numpy
+tensorflow
+six
+markovify
