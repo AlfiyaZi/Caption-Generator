@@ -9,7 +9,7 @@ Anyway, this is just a rough sketch of how captions can be generated from just a
 ## How it works
 First, the image gets processed through Clarifai and returns tags that describe the image. I then took [hunkim](http://github.com/hunkim)'s word-RNN repository to take a set of encouraging messages and generate a heuristic of a caption based on the relevant captions.
 
-Once the RNN spits out a garbage caption, I combine that with a Markov chain trained on the original messages so that the grammar is not too bad, and there is slight relevancy to the original image. It turns out being more irrelevant but the caption still sounds good in all honesty.
+Once the RNN spits out a garbage caption, I combine that with a Markov chain trained on the original messages so that the grammar is not too bad, and there is slight relevancy to the original image. 
 
 ## Installation
 ### Step 1:
