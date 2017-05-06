@@ -1,5 +1,5 @@
-#Image Caption Generator
-##RNN and Markov Chain-based Caption Generation
+# Image Caption Generator
+## RNN and Markov Chain-based Caption Generation
 
 This is the result of me being bored at 3 AM during exam week when I can't sleep because REM cycles or something.
 
