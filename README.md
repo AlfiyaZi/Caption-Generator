@@ -13,7 +13,7 @@ Once the RNN spits out a garbage caption, I combine that with a Markov chain tra
 
 ## Installation
 ### Step 1:
-Install the [Clarifai Python api](https://github.com/Clarifai/clarifai-python). Set it up according to their instructions, including getting your own Client ID and Secret.
+Install the [Clarifai Python client](https://github.com/Clarifai/clarifai-python). Set it up according to their instructions, including getting your own Client ID and Secret.
 
 ### Step 2:
 Install the remaining dependencies, including `markovify`, `numpy`, and `tensorflow` if you don't have them already.
