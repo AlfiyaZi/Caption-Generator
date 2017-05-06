@@ -1,5 +1,4 @@
-# Image Caption Generator
-## RNN and Markov Chain-based Caption Generation
+# RNN and Markov Chain-based Caption Generation
 
 ![basic img](img.png)
 
