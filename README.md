@@ -22,4 +22,4 @@ Install the remaining dependencies, including `markovify`, `numpy`, and `tensorf
 Change line 33 of `index.py` to the URL of an image you want to caption.
 
 ### Step 4:
-Run `index.py`
+Run `train.py` to train the RNN, then run `index.py` to test it out!
