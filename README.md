@@ -1,6 +1,8 @@
 # Image Caption Generator
 ## RNN and Markov Chain-based Caption Generation
 
+![basic img](img.png)
+
 This is the result of me being bored at 3 AM during exam week when I can't sleep because REM cycles or something.
 
 Anyway, this is just a rough sketch of how captions can be generated from just an image.
